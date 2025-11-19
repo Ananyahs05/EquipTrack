@@ -261,7 +261,7 @@ Online payment integration
 👨‍💻 Author
 
 Your Name
-(Replace with your actual name)
+Ananya H S
 
 📜 License
 
